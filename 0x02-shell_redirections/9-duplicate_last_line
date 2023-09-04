@@ -1,5 +1,3 @@
 #!/bin/bash
-tail -1 iacta >> iact:wq
-:wq
-
+tail -1 iacta >> iacta
 
