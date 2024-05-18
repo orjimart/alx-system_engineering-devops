@@ -47,7 +47,7 @@ frontend b3zaleel-alx.tech-https-frontend
         default_backend orjimart.tech-backend
 backend orjimart.tech-backend
         balance roundrobin
-        server515276-web-01  54.144.154.140 check
-        server 515276-web-02 100.26.56.6 check
+        server 515276-web-01 34.227.101.110 check
+        server 515276-web-02 54.160.93.247 check
 # end of parameters
                                                                                                  51,15         Bot
